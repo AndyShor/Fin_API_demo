@@ -1,0 +1,5 @@
+alpha-vantage==2.2.0
+yfinance==0.1.54
+streamlit==0.60.0
+quandl==3.5.0
+pandas==1.0.3
