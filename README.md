@@ -1,3 +1,6 @@
 # Fin_API_demo
-Demo(-s) of basic streamlit apps using financial data from yahoo, quandl and alpha vantage APIs
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyShor/Fin_API_demo/master)
+Demo of basic streamlit apps using financial data from yahoo, quandl and alpha vantage APIs.
+Demo app based on Yahoo finance API can be seen live on heroku - https://yfinance-demo.herokuapp.com/
+For Alpha Vantage API and Quandl API replace placeholders with API keys, they are free after registration (with some limitations).
+
+
