@@ -1,5 +1,5 @@
-# Fin_API_demo
-Demo of basic streamlit apps using financial data from yahoo, quandl and alpha vantage APIs.
+# Demo apps using streamlit as front end and Yahoo finance, Quandl and Alpha Vantage as data sources
+
 
 Demo app based on Yahoo finance API can be seen live on heroku - https://yfinance-demo.herokuapp.com/
 
