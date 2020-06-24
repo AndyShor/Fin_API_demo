@@ -6,3 +6,8 @@ Demo app based on Yahoo finance API can be seen live on heroku - https://yfinanc
 For Alpha Vantage API and Quandl API replace placeholders with API keys, they are free after registration (with some limitations).
 
 
+![yfinance app screenshot](/screenshots/yfinance_screen.png)
+
+![alpha vantage app screenshot](/screenshots/CXW.png)
+
+
